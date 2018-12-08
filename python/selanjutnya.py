@@ -1,0 +1,5 @@
+print ("Selanjutnya Memakai Terminal Python")
+print ("Mengenal Operator Penjumlahan")
+print ("Mengenal Deklarasi Variabel Dan Menampilkannya")
+print ("Mengenal Cara Mendeklarasikan Array Dan Menampilkannya")
+print ("Mengenal Pemakaian Append() & Insert()")
