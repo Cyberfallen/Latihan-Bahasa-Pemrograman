@@ -1,2 +1,3 @@
-# Latihan-Python
-Hanya Untuk Pelatihan Bahasa Python
+# Latihan-Bahasa Pemrograman
+Hanya Untuk Pelatihan Bahasa Pemrograman
+~Saya Manusia Lemah~
