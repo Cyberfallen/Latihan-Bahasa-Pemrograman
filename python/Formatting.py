@@ -1,0 +1,10 @@
+print("Gunakan Text Editor Untuk Melihat Kodenya")
+print("Metode Lama(Sudah Tidak Bisa)")
+#%s %s'%('Satu','Dua','Tiga')
+print("Metode Baru")
+print('{} {}'.format('Satu','Dua','Tiga'))
+
+print("Metode Lama(Sudah Tidak Bisa)")
+#'%d %d'%(1,2,3)
+print('Metode Baru')
+print('{} {}'.format(1,2,3))
