@@ -1,0 +1,5 @@
+dalam module sys kita akan mengenal yang namanya sys.argv,
+apa itu sys.argv ?
+sys.argv adalah fungsi yang membuat dan menjadikan  argumen di luar script python
+itu sendiri yang tercetak dalam keluaran sehingga seolah-olah melewati script
+pada file python itu sendiri atau berada didalam script yang ada didalam file itu sendiri.
